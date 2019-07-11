@@ -1,0 +1,11 @@
+/Users/gaivoronsky80/Documents/CodingDojo/c_sharp/oop/Phone/bin/Debug/netcoreapp2.2/Phone.deps.json
+/Users/gaivoronsky80/Documents/CodingDojo/c_sharp/oop/Phone/bin/Debug/netcoreapp2.2/Phone.runtimeconfig.json
+/Users/gaivoronsky80/Documents/CodingDojo/c_sharp/oop/Phone/bin/Debug/netcoreapp2.2/Phone.runtimeconfig.dev.json
+/Users/gaivoronsky80/Documents/CodingDojo/c_sharp/oop/Phone/bin/Debug/netcoreapp2.2/Phone.dll
+/Users/gaivoronsky80/Documents/CodingDojo/c_sharp/oop/Phone/bin/Debug/netcoreapp2.2/Phone.pdb
+/Users/gaivoronsky80/Documents/CodingDojo/c_sharp/oop/Phone/obj/Debug/netcoreapp2.2/Phone.csprojAssemblyReference.cache
+/Users/gaivoronsky80/Documents/CodingDojo/c_sharp/oop/Phone/obj/Debug/netcoreapp2.2/Phone.csproj.CoreCompileInputs.cache
+/Users/gaivoronsky80/Documents/CodingDojo/c_sharp/oop/Phone/obj/Debug/netcoreapp2.2/Phone.AssemblyInfoInputs.cache
+/Users/gaivoronsky80/Documents/CodingDojo/c_sharp/oop/Phone/obj/Debug/netcoreapp2.2/Phone.AssemblyInfo.cs
+/Users/gaivoronsky80/Documents/CodingDojo/c_sharp/oop/Phone/obj/Debug/netcoreapp2.2/Phone.dll
+/Users/gaivoronsky80/Documents/CodingDojo/c_sharp/oop/Phone/obj/Debug/netcoreapp2.2/Phone.pdb

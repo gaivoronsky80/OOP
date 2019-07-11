@@ -1,0 +1,11 @@
+/Users/gaivoronsky80/Documents/CodingDojo/c_sharp/oop/Human/obj/Debug/netcoreapp2.2/Human.csprojAssemblyReference.cache
+/Users/gaivoronsky80/Documents/CodingDojo/c_sharp/oop/Human/obj/Debug/netcoreapp2.2/Human.csproj.CoreCompileInputs.cache
+/Users/gaivoronsky80/Documents/CodingDojo/c_sharp/oop/Human/obj/Debug/netcoreapp2.2/Human.AssemblyInfoInputs.cache
+/Users/gaivoronsky80/Documents/CodingDojo/c_sharp/oop/Human/obj/Debug/netcoreapp2.2/Human.AssemblyInfo.cs
+/Users/gaivoronsky80/Documents/CodingDojo/c_sharp/oop/Human/bin/Debug/netcoreapp2.2/Human.deps.json
+/Users/gaivoronsky80/Documents/CodingDojo/c_sharp/oop/Human/bin/Debug/netcoreapp2.2/Human.runtimeconfig.json
+/Users/gaivoronsky80/Documents/CodingDojo/c_sharp/oop/Human/bin/Debug/netcoreapp2.2/Human.runtimeconfig.dev.json
+/Users/gaivoronsky80/Documents/CodingDojo/c_sharp/oop/Human/bin/Debug/netcoreapp2.2/Human.dll
+/Users/gaivoronsky80/Documents/CodingDojo/c_sharp/oop/Human/bin/Debug/netcoreapp2.2/Human.pdb
+/Users/gaivoronsky80/Documents/CodingDojo/c_sharp/oop/Human/obj/Debug/netcoreapp2.2/Human.dll
+/Users/gaivoronsky80/Documents/CodingDojo/c_sharp/oop/Human/obj/Debug/netcoreapp2.2/Human.pdb

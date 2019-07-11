@@ -1,0 +1,11 @@
+/Users/gaivoronsky80/Documents/CodingDojo/c_sharp/oop/Terminal-RPG-Encounter/bin/Debug/netcoreapp2.2/Terminal-RPG-Encounter.deps.json
+/Users/gaivoronsky80/Documents/CodingDojo/c_sharp/oop/Terminal-RPG-Encounter/bin/Debug/netcoreapp2.2/Terminal-RPG-Encounter.runtimeconfig.json
+/Users/gaivoronsky80/Documents/CodingDojo/c_sharp/oop/Terminal-RPG-Encounter/bin/Debug/netcoreapp2.2/Terminal-RPG-Encounter.runtimeconfig.dev.json
+/Users/gaivoronsky80/Documents/CodingDojo/c_sharp/oop/Terminal-RPG-Encounter/bin/Debug/netcoreapp2.2/Terminal-RPG-Encounter.dll
+/Users/gaivoronsky80/Documents/CodingDojo/c_sharp/oop/Terminal-RPG-Encounter/bin/Debug/netcoreapp2.2/Terminal-RPG-Encounter.pdb
+/Users/gaivoronsky80/Documents/CodingDojo/c_sharp/oop/Terminal-RPG-Encounter/obj/Debug/netcoreapp2.2/Terminal-RPG-Encounter.csprojAssemblyReference.cache
+/Users/gaivoronsky80/Documents/CodingDojo/c_sharp/oop/Terminal-RPG-Encounter/obj/Debug/netcoreapp2.2/Terminal-RPG-Encounter.csproj.CoreCompileInputs.cache
+/Users/gaivoronsky80/Documents/CodingDojo/c_sharp/oop/Terminal-RPG-Encounter/obj/Debug/netcoreapp2.2/Terminal-RPG-Encounter.AssemblyInfoInputs.cache
+/Users/gaivoronsky80/Documents/CodingDojo/c_sharp/oop/Terminal-RPG-Encounter/obj/Debug/netcoreapp2.2/Terminal-RPG-Encounter.AssemblyInfo.cs
+/Users/gaivoronsky80/Documents/CodingDojo/c_sharp/oop/Terminal-RPG-Encounter/obj/Debug/netcoreapp2.2/Terminal-RPG-Encounter.dll
+/Users/gaivoronsky80/Documents/CodingDojo/c_sharp/oop/Terminal-RPG-Encounter/obj/Debug/netcoreapp2.2/Terminal-RPG-Encounter.pdb

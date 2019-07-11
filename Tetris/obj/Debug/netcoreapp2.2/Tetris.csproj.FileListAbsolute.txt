@@ -1,0 +1,11 @@
+/Users/gaivoronsky80/Documents/CodingDojo/c_sharp/oop/Tetris/obj/Debug/netcoreapp2.2/Tetris.csprojAssemblyReference.cache
+/Users/gaivoronsky80/Documents/CodingDojo/c_sharp/oop/Tetris/obj/Debug/netcoreapp2.2/Tetris.csproj.CoreCompileInputs.cache
+/Users/gaivoronsky80/Documents/CodingDojo/c_sharp/oop/Tetris/obj/Debug/netcoreapp2.2/Tetris.AssemblyInfoInputs.cache
+/Users/gaivoronsky80/Documents/CodingDojo/c_sharp/oop/Tetris/obj/Debug/netcoreapp2.2/Tetris.AssemblyInfo.cs
+/Users/gaivoronsky80/Documents/CodingDojo/c_sharp/oop/Tetris/bin/Debug/netcoreapp2.2/Tetris.deps.json
+/Users/gaivoronsky80/Documents/CodingDojo/c_sharp/oop/Tetris/bin/Debug/netcoreapp2.2/Tetris.runtimeconfig.json
+/Users/gaivoronsky80/Documents/CodingDojo/c_sharp/oop/Tetris/bin/Debug/netcoreapp2.2/Tetris.runtimeconfig.dev.json
+/Users/gaivoronsky80/Documents/CodingDojo/c_sharp/oop/Tetris/bin/Debug/netcoreapp2.2/Tetris.dll
+/Users/gaivoronsky80/Documents/CodingDojo/c_sharp/oop/Tetris/bin/Debug/netcoreapp2.2/Tetris.pdb
+/Users/gaivoronsky80/Documents/CodingDojo/c_sharp/oop/Tetris/obj/Debug/netcoreapp2.2/Tetris.dll
+/Users/gaivoronsky80/Documents/CodingDojo/c_sharp/oop/Tetris/obj/Debug/netcoreapp2.2/Tetris.pdb
